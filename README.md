@@ -1,4 +1,3 @@
-# This is title one
-##This is the text two
+#Can Yucel Bal and Nate Grift's Bio
 
-Heres more text
+##Included Images and Bio description in html file.
